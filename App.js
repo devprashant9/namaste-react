@@ -7,6 +7,9 @@
 
 // Creating Nested Eleemnt in React
 
+import React from "react"
+import ReactDOM from "react-dom/client"
+
 const parent = React.createElement(
     "div", 
     {id: "parent"},
